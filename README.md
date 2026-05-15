@@ -98,6 +98,7 @@ Personal portfolio website showcasing projects, technical skills, and developmen
 * GitHub: [https://github.com/sahiljayant19](https://github.com/sahiljayant19)
 * Portfolio: [https://sahiljayant19.github.io/My-Portfolio/](https://sahiljayant19.github.io/My-Portfolio/)
 * LinkedIn: [https://www.linkedin.com/in/sahiljayant-fullstack/](https://www.linkedin.com/in/sahiljayant-fullstack/)
+* Email: sahiljayantwork@gmail.com
 
 ---
 
